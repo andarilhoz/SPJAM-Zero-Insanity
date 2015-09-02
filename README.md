@@ -7,3 +7,6 @@ Tema: Viagem com g ou com j.
 
 
 Optei por não optimizar e comentar o minimo possivel os códigos para não gastar muito tempo.
+
+
+teste
